@@ -50,6 +50,8 @@ The following institutional seed leads actively deploy capital, lead rounds, and
 | **Work-Bench** | New York, NY | $1.5M – $3.0M | Seed (Lead) | Enterprise Software, DevTools, Cyber | Form ADV Archive | [Partner Track](https://zinvestorhunting.com/investors) |
 | **Root Ventures** | San Francisco, CA | $1.5M – $2.5M | Seed (Lead) | DeepTech, Robotics, Engineering AI | SEC Form ADV | [Directory Entry](https://zinvestorhunting.com/investors) |
 | **Slow Ventures** | Boston / SF | $500k – $2.0M | Pre-Seed / Seed | Frontier, Crypto, Social, Defense | SEC Form D | [Outreach Queue](https://zinvestorhunting.com/investors) |
+| **Prithvi Ventures** | New York, NY | $500k – $1.0M ($500k sweet spot) | Incubation / Pre-Seed / Seed | Energy, DeepTech, Hardware, Infrastructure, Supply Chain (Groq backer) | [PitchBook](https://pitchbook.com/profiles/investor/464078-44) | [prithvivc.com](https://www.prithvivc.com) |
+| **Ayuh Ventures** | New York, NY | $500k – $1.0M ($500k sweet spot) | Incubation / Pre-Seed / Seed | Healthcare, Neuroscience, MedTech, Neurology, Oncology (Gilgamesh, Beckley Psyche backer) | [PitchBook](https://pitchbook.com/profiles/fund/22392-01F) | [ayuhvc.com](https://www.ayuhvc.com) |
 
 *Want the complete database of 11,300+ US funds with partner emails and SEC check sizes? Search the [Live Directory](https://zinvestorhunting.com/investors).*
 
